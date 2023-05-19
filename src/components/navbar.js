@@ -1,6 +1,6 @@
 import React from 'react';
 import './stylesheets/styles.css';
-import signup_form from './components/alumni_signup';
+import signup_form from './alumni_signup';
 function Navbar(){
    return(
     <div className="nav">
