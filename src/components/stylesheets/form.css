@@ -1,0 +1,42 @@
+.form{
+    background-color:  rgb(242, 230, 233);
+    height:fit-content;
+    width:50vh;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 5%;
+    box-shadow: 5px 12px 7px rgb(226, 123, 143);
+    display: flex;
+    flex-direction: column;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    border: none;
+}
+
+legend{
+    color:blueviolet;
+    font-weight:700;
+    font-size: 1.5em;
+}
+
+
+label{
+    margin:0.5em;
+    color: rgb(226, 123, 143);
+    font-weight: 600;
+}
+input{
+ border:none;
+ height: 30px;
+ border-radius: 5px;
+}
+
+.btn{
+    margin:0 auto;
+}
+
+
